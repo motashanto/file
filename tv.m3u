@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,PB - Star Sports HD 1 
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1,PB - Star Sports HD 2
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:-1,PB - Sony Six HD 
+http://172.17.50.112/live/antbd1003/index.m3u8
+#EXTINF:-1,PB - BTV
+http://172.17.50.112/live/antbd1005/index.m3u8
+#EXTINF:-1,PB - CHAKDE TV
+http://voxtv.dynns.com:8000/punjabi/punjabi/1113
+#EXTINF:-1,PB - Masranga TV
+http://172.17.50.112/live/antbd1006/index.m3u8
